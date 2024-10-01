@@ -1,6 +1,4 @@
-Here’s a rewritten `README.md` for your Conway’s Game of Life project:
 
----
 
 # Conway's Game of Life in Python
 
