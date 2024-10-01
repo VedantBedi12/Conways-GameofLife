@@ -33,7 +33,7 @@ To run this implementation of Conway's Game of Life, you'll need Python and Pyga
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/conways-game-of-life.git
+   git clone https://github.com/VedantBedi12/Conways-GameofLife.git
    cd conways-game-of-life
    ```
 
