@@ -9,6 +9,9 @@ Conway's Game of Life is a zero-player game, meaning it requires no further inpu
 
 In this Python implementation using the Pygame library, you can set up an initial configuration of live and dead cells on a grid and observe how the patterns evolve over time based on the game's rules.
 
+I have also edited this game to take in a image input and set the initial state according to it. That file is called main_2D_imagesimulation.py. I have provided a reference image also
+
+
 ## Game Rules
 The Game of Life operates on a grid of square cells, each of which can be in one of two states:
 - **Alive (1)**
@@ -45,7 +48,7 @@ To run this implementation of Conway's Game of Life, you'll need Python and Pyga
 ## Usage
 Once installed, you can start the game by running the following command:
 ```bash
-python game_of_life.py
+python main.py
 ```
 
 ### Controls:
